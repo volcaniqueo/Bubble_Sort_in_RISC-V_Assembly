@@ -4,3 +4,5 @@ This project was my 1st Assignment for the labs of the course CMPE 344 (Computer
 This project is an implementation of the classical Bubble Sort algorithm. The number of elements in the array (N) and the elements of the array (elements in the V, in the code) themselves are HARDCODED in the code and should be modified whenever necessary.
 ## To Run the Code
 One can search the internet and find one of the many online compilers for the RISC-V Assembly language. Or there is a complete installation guide in the lab's github page. (Just search bouncmpe/labs344 in Github)
+
+Note that the code does not end and should be tracked via whisper. Also since there are no I/O operations, the elements in the vector (V) can also be tracked via whisper. (The details and the example usage of whisper are also available in the lab's github page.)
